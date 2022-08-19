@@ -1,2 +1,2 @@
-# Learnign-Data-Science
+# Learning-Data-Science
 How I Learn Python For Data Science
